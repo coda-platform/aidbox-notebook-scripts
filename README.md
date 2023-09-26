@@ -11,7 +11,7 @@ This notebook is employed to create an AccessPolicy tailored for users assigned 
 Scripts for creating User with "Developer" role.
 
 ### 3.Create Client
-Scripts for creating Bulk Clent for data loading in Aidbox.
+Scripts for creating Bulk Client in Aidbox.
 
 ### 4.Delete Resources
 Scripts for deleting a resource or all the resources of a specific type.
